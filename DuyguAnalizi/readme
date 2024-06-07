@@ -1,0 +1,21 @@
+# Duygu Analizi Projesi
+
+Bu proje, İngilizce metinlerdeki duygusal durumları sınıflandıran bir makine öğrenimi modelini içerir.
+
+## Gereksinimler
+- Python
+- scikit-learn
+- pandas
+- numpy
+- joblib
+- streamlit
+
+## Kurulum ve Çalıştırma
+1. Untitled.ipynb dosyasında duygu_veriseti.csv veri seti kullanılarak eğitim ve test işlemleri yapılıyor.
+2. Model eğitildikten sonra kaydediliyor ve Python kod kısmında kullanılıyor.
+3. Projeyi çalıştırmak için; main.py dosyası çalıştırılır ve 
+( streamlit run C:/Users/Nurdan/PycharmProjects/DuyguAnalizi/main.py ) tarzında bir dosya yoluna ulaşılır. cmd ekranını açarak C:/Users/Nurdan/PycharmProjects/DuyguAnalizi dosya yoluna gidilir ve streamlit run main.py koduyla proje çalıştırılır.
+4. Veri seti İngilizce olduğu için girilen metinlerin de İngilizce olması beklenir.
+5. İngilizce metin girdikten sonra Gönder tuşuna basarak sonuçları görüntüleyebiliriz. 
+
+  
